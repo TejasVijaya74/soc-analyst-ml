@@ -52,7 +52,7 @@ st.subheader("Incident Records")
 
 st.dataframe(
     history,
-    use_container_width=True
+    width="stretch"
 )
 
 st.divider()
