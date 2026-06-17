@@ -361,13 +361,12 @@ http://localhost:8000/docs
 
 # 📸 Screenshots
 
-Add screenshots in:
 
 ```text
 docs/screenshots/
 ```
 
-Suggested screenshots:
+Included screenshots:
 
 * Alert Analyzer
 * Incident History
